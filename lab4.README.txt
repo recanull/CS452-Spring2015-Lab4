@@ -1,1 +1,1 @@
-name, date, description
+Richard Evan Canull, 3/31/15, Added a texture to lab 3
